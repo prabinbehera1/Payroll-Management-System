@@ -25,6 +25,11 @@ You can install the MySQL connector using pip:
 pip install mysql-connector-python
 
 
+### **Project Structure**
+
 .
 ├── payroll.py          # Main file containing the Payroll Management System logic
 ├── README.md           # Project README file
+
+
+### **MySQL Database Setup**

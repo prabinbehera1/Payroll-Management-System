@@ -53,7 +53,7 @@ CREATE DATABASE payroll;
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/payroll-management-system.git
+   git clone https://github.com/prabinbehera1/payroll-management-system.git
 2. Open the payroll.py file and update the MySQL connection credentials as per your local setup:
    ```python
    mysql_con = mysql.connect(host='localhost', user='root', passwd='your_password', database='payroll')
